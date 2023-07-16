@@ -4,7 +4,12 @@
   - vehicle detection: [BDD100K](https://www.vis.xyz/bdd100k/)
   - Illegal parking detection: [Our dataset](./dataset/)
 
-
+## Weight
+  Download from here [vehicle_Detection](https://drive.google.com/file/d/19mJ_e6KvvEEpo0Ah03NwQibzIj8Y6CHS/view?usp=sharing)
+                     ,[licence_Detection](https://drive.google.com/file/d/1k2AE2miIOKeGWO1ncExy6D7Hw1s-WQ1d/view?usp=sharing)
+                     ,[Violation_Classification](https://drive.google.com/file/d/1qaYYTDYY_wXv5YnRQ6MbrWRLeyv4CVVA/view?usp=drive_link)<br>
+  Put that Weight to [here](./weights/)
+  
 ## Requirement
   This codebase has been developed with
   ```
