@@ -28,7 +28,7 @@
   ### Train
   Train vehicle detection 
   ```shell
-  python test_python.py
+  python Detect_train.py
   ```
   Train Illegal parking classification
   - see [here](https://github.com/richardkuo1999/Violation_Classification)
